@@ -176,9 +176,7 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      First & Second authors are equally contributed to those papers.
     papers:
       - title: The Art of Computer Programming
         link: "#"
@@ -190,10 +188,10 @@ publications:
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: “Relationship between Physical Function Factors and Discrimination Experiences of the Elderly in Korea: The 2014 and 2017 National Survey on Living Conditions and Welfare Needs of Korean Older Persons”
+        link: "https://doi.org/10.4332/KJHPA.2019.29.4.454"
+        authors: Kyuhee Lee, Wangshik Yong, Changhoon You, Yongjae Lee, Woojin Chung
+        Journal: "Health Policy and Management Vol.29 No.4, 454-468"
 
 skills:
     title: Skills &amp; Proficiency
