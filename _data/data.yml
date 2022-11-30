@@ -130,9 +130,9 @@ projects:
         tagline: "2015-1" 
       - title: (Undergraduate) Economics Statistics
         link: "#hook"
-        tagline: "2014-2        
+        tagline: "2014-2"
 
-projects:
+oss-contributions:
     title: Working Papers
     intro: >
       
