@@ -145,7 +145,7 @@ publications:
     intro: |
       *: authors are equally contributed to the following papers.
     papers:
-      - title: '[working paper]Evolution of income-related health inequality and its decomposition in South Korea'
+      - title: '[Working Paper]Evolution of income-related health inequality and its decomposition in South Korea'
         link: "#hook"
         authors: Yongjae Lee
         conference: "ABSTRACT
@@ -157,47 +157,47 @@ publications:
         Results In Erreygers index, income had contributed to increasing health inequalities over time. According to the results of decomposing Erreygers index, income growth had contributed to reducing health inequality. However, rigid individual's income mobility is the main reason for increasing income-related health inequality. In the sub-analysis, women aged 70 and older was likely to have a significant effect on income-related health inequality than other groups.
         Conclusions The well-known, positive association between income and health status may be valid when the income number was only considered. Excluding income growth and income mobility may result in the targeting of wrong populations for improving health status and its resultant socioeconomic gradients."
 
-      - title: 'Association between High Sensitivity C-Reactive Protein and Metabolic Syndrome in South Korea: A Gender-Specific Analysis'
+      - title: '[9] Association between High Sensitivity C-Reactive Protein and Metabolic Syndrome in South Korea: A Gender-Specific Analysis'
         link: "https://doi.org/10.4332/KJHPA.2021.31.2.158"
         authors: Eunyoung Shin*, Yongjae Lee*, Taehyun Kim, Keum Ji Jung, Woojin Chung
         conference: "Health Policy and Management Vol.31 No.2, 158-172, (2021)"
 
-      - title: 'Oral Health Status and Behavior Factors Associated with Self-Rated Health Status among the Elderly in South Korea: The 7th Korea National Health and Nutrition Examination Survey (2016–2018)'
+      - title: '[8] Oral Health Status and Behavior Factors Associated with Self-Rated Health Status among the Elderly in South Korea: The 7th Korea National Health and Nutrition Examination Survey (2016–2018)'
         link: "https://doi.org/10.4332/KJHPA.2021.31.1.74"
         authors: Joo Hee Hong*, Yongjae Lee*, Taehyun Kim, Roeul Kim, Woojin Chung
         conference: "Health Policy and Management Vol.31 No.1, 74-90, (2021)"
 
-      - title: 'Does the Obesity Paradox Exist in Cognitive Function?: Evidence from the Korean Longitudinal Study of Ageing, 2006–2016'
+      - title: '[7] Does the Obesity Paradox Exist in Cognitive Function?: Evidence from the Korean Longitudinal Study of Ageing, 2006–2016'
         link: "https://doi.org/10.4332/KJHPA.2020.30.4.493"
         authors: Kyung Sik Kang*, Yongjae Lee*, Sohee Park, Heejin Kimm, Woojin Chung 
         conference: "Health Policy and Management Vol.30 No.4, 493-504, (2020)"
 
-      - title: 'Factors Associated with the Use of Medical Care at Hospitals among Outpatients with Hypertension: A Study of the Korea Health Panel Study Dataset (2010–2016)'
+      - title: '[6] Factors Associated with the Use of Medical Care at Hospitals among Outpatients with Hypertension: A Study of the Korea Health Panel Study Dataset (2010–2016)'
         link: "https://doi.org/10.4332/KJHPA.2020.30.4.479"
         authors: Sumi Lee, Sohee Park, Heejin Kimm, Yongjae Lee, Woojin Chung  
         conference: "Health Policy and Management Vol.30 No.4, 479-492 , (2020)"
 
-      - title: 'Effect of Coverage Expansion Policy for an Ultrasonography in the Upper Abdomen on Its Utilization: A Difference-in-Difference Mixed-Effects Model Analysis'
+      - title: '[5] Effect of Coverage Expansion Policy for an Ultrasonography in the Upper Abdomen on Its Utilization: A Difference-in-Difference Mixed-Effects Model Analysis'
         link: "https://doi.org/10.4332/KJHPA.2020.30.3.326"
         authors: Yena Son*, Yongjae Lee*, Chung-Mo Nam, Gyu Ri Kim, Woojin Chung  
         conference: "Health Policy and Management Vol.30 No.3, 326-334 , (2020)"
 
-      - title: 'Associations between Chronic Diseases and Depression in the Korean Elderly: A Gender-Specific Analysis'
+      - title: '[4] Associations between Chronic Diseases and Depression in the Korean Elderly: A Gender-Specific Analysis'
         link: "https://doi.org/10.4332/KJHPA.2020.30.1.233"
         authors: Young Jin*, Yongjae Lee*, Tae Hyun Kim, Seungji Lim, Woojin Chung 
         conference: "Health Policy and Management Vol.30 No.2, 233-246, (2020)"
 
-      - title: 'Association between Arthritis and Socio-Demographic Factors in Korean Elderlies: The National Survey of Korean Elderly (2014, 2017) Dataset Analysis'
+      - title: '[3] Association between Arthritis and Socio-Demographic Factors in Korean Elderlies: The National Survey of Korean Elderly (2014, 2017) Dataset Analysis'
         link: "https://doi.org/10.4332/KJHPA.2019.29.4.469"
         authors: Woonkyung Ha, Kwankyu Park, Taehyun Kim, Kyuhee Lee, Yongjae Lee, Woojin Chung 
         conference: "Health Policy and Management Vol.29 No.4, 469-481, (2019)"
 
-      - title: 'Factors Associated with Self-Rated Health among Poor Glycemic Control Group with Diabetes Mellitus: The 4th–6th Korea National Health and Nutrition Examination Survey (2007–2015)'
+      - title: '[2] Factors Associated with Self-Rated Health among Poor Glycemic Control Group with Diabetes Mellitus: The 4th–6th Korea National Health and Nutrition Examination Survey (2007–2015)'
         link: "https://doi.org/10.4332/KJHPA.2019.29.4.431"
         authors: Suyoung Lee, Heejin Kim, Kyuri Kim, YongJae Lee, Woojin Chung 
         conference: "Health Policy and Management Vol.29 No.4, 431-444, (2019)"
 
-      - title: 'Relationship between Physical Function Factors and Discrimination Experiences of the Elderly in Korea: The 2014 and 2017 National Survey on Living Conditions and Welfare Needs of Korean Older Persons'
+      - title: '[1] Relationship between Physical Function Factors and Discrimination Experiences of the Elderly in Korea: The 2014 and 2017 National Survey on Living Conditions and Welfare Needs of Korean Older Persons'
         link: "https://doi.org/10.4332/KJHPA.2019.29.4.454"
         authors: Kyuhee Lee, Wangshik Yong, Changhoon You, Yongjae Lee, Woojin Chung
         conference: "Health Policy and Management Vol.29 No.4, 454-468, (2019)"
