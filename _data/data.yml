@@ -79,13 +79,9 @@ education:
         university: Sangmyung University
         time: 2011 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Graduated early at the seven semesters out of eight semesters with the highest priority (1/71)
+            - Awarded Scholarships for seven out of seven semesters
+            - Awarded Special Prize: Grand award in the Debate, Excellence award in the writing contest & Excellence award in book reading critique contestBullet point
 experiences:
     title: Experiences
     info:
@@ -119,17 +115,24 @@ projects:
 
       - title: Development of drug side effect clue detection algorithm and artificial intelligence-based drug side effect prediction model using CDM
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Developed R library to predict drug causign side effects"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+projects:
+    title: Teaching Assistant
+    intro: >
+      
+    assignments:
+      - title: (Undergraduate) Economics Mathematics
+        link: "#hook"
+        tagline: "2016-1"
+      - title: (Undergraduate) Macroeconomics
+        link: "#hook"
+        tagline: "2015-1" 
+      - title: (Undergraduate) Economics Statistics
+        link: "#hook"
+        tagline: "2014-2        
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-working paper:
+projects:
     title: Working Papers
     intro: >
       
