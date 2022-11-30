@@ -141,11 +141,11 @@ oss:
         tagline: "2014-2"
 
 publications:
-    title: Working Paper
+    title: Publications
     intro: |
-      
+      *: authors are equally contributed to the following papers.
     papers:
-      - title: 'Evolution of income-related health inequality and its decomposition in South Korea'
+      - title: '[working paper]Evolution of income-related health inequality and its decomposition in South Korea'
         link: "#hook"
         authors: Yongjae Lee
         conference: "ABSTRACT
@@ -157,11 +157,6 @@ publications:
         Results In Erreygers index, income had contributed to increasing health inequalities over time. According to the results of decomposing Erreygers index, income growth had contributed to reducing health inequality. However, rigid individual's income mobility is the main reason for increasing income-related health inequality. In the sub-analysis, women aged 70 and older was likely to have a significant effect on income-related health inequality than other groups.
         Conclusions The well-known, positive association between income and health status may be valid when the income number was only considered. Excluding income growth and income mobility may result in the targeting of wrong populations for improving health status and its resultant socioeconomic gradients."
 
-publications:
-    title: Publications
-    intro: |
-      *: authors are equally contributed to the following papers.
-    papers:
       - title: 'Association between High Sensitivity C-Reactive Protein and Metabolic Syndrome in South Korea: A Gender-Specific Analysis'
         link: "https://doi.org/10.4332/KJHPA.2021.31.2.158"
         authors: Eunyoung Shin*, Yongjae Lee*, Taehyun Kim, Keum Ji Jung, Woojin Chung
