@@ -74,6 +74,10 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+      - degree: Republic of Korea Army
+        university:
+        time: 2011 - 2013
+        details:
       - degree: BA in Economics
         university: Sangmyung University
         time: 2011 - 2017
@@ -89,8 +93,8 @@ experiences:
         company: Severance Hospital, Seoul
         details: |
           As a project manager, I develop R library based on Maching Learning. I am proficient in using R and Python and I could run Lasso regression, Random forest, Gradient Boosting Machines, and Natural Language Processing (NLP).
-            - Liasion officer at the Observational Health Data Sciences and Informatics.
-      - role: Researcher
+            - Liasion officer at the Observational Health Data Sciences and Informatics (OHDSI).
+      - role: Research Assistant
         time: 2019 - 2021
         company: Graduate school of Public Health, Yonsei University, Seoul
         details: |
