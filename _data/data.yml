@@ -105,9 +105,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I have learned new methods from following projects
     assignments:
       - title: Establishment and Improvement of Market Economy System - Development Experience Exchange Partnership (DEEP)
         link: "#hook"
@@ -126,67 +124,92 @@ projects:
         tagline: "Developed R library by using text mining"
 
 oss:
-    title: OSS Contributions
+    title: Teaching Assistant
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: (Undergraduate) Economics Mathematics
+        link: "#hook"
+        tagline: "2016-1"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: (Undergraduate) Macroeconomics
+        link: "#hook"
+        tagline: "2015-1" 
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: (Undergraduate) Economics Statistics
+        link: "#hook"
+        tagline: "2014-2"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      First & Second authors are equally contributed to those papers.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: 'Association between High Sensitivity C-Reactive Protein and Metabolic Syndrome in South Korea: A Gender-Specific Analysis'
+        link: "https://doi.org/10.4332/KJHPA.2021.31.2.158"
+        authors: Eunyoung Shin, Yongjae Lee, Taehyun Kim, Keum Ji Jung, Woojin Chung
+        Journal: "Health Policy and Management Vol.31 No.2, 158-172, (2021)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: 'Oral Health Status and Behavior Factors Associated with Self-Rated Health Status among the Elderly in South Korea: The 7th Korea National Health and Nutrition Examination Survey (2016–2018)'
+        link: "https://doi.org/10.4332/KJHPA.2021.31.1.74"
+        authors: Joo Hee Hong, Yongjae Lee, Taehyun Kim, Roeul Kim, Woojin Chung
+        Journal: "Health Policy and Management Vol.31 No.1, 74-90, (2021)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: 'Does the Obesity Paradox Exist in Cognitive Function?: Evidence from the Korean Longitudinal Study of Ageing, 2006–2016'
+        link: "https://doi.org/10.4332/KJHPA.2020.30.4.493"
+        authors: Kyung Sik Kang, Yongjae Lee, Sohee Park, Heejin Kimm, Woojin Chung 
+        Journal: "Health Policy and Management Vol.30 No.4, 493-504, (2020)"
+
+      - title: 'Factors Associated with the Use of Medical Care at Hospitals among Outpatients with Hypertension: A Study of the Korea Health Panel Study Dataset (2010–2016)'
+        link: "https://doi.org/10.4332/KJHPA.2020.30.4.479"
+        authors: Sumi Lee, Sohee Park, Heejin Kimm, **Yongjae Lee**, Woojin Chung  
+        Journal: "Health Policy and Management Vol.30 No.4, 479-492 , (2020)"
+
+      - title: 'Effect of Coverage Expansion Policy for an Ultrasonography in the Upper Abdomen on Its Utilization: A Difference-in-Difference Mixed-Effects Model Analysis'
+        link: "https://doi.org/10.4332/KJHPA.2020.30.3.326"
+        authors: Yena Son, **Yongjae Lee**, Chung-Mo Nam, Gyu Ri Kim, Woojin Chung  
+        Journal: "Health Policy and Management Vol.30 No.3, 326-334 , (2020)"
+
+      - title: 'Associations between Chronic Diseases and Depression in the Korean Elderly: A Gender-Specific Analysis'
+        link: "https://doi.org/10.4332/KJHPA.2020.30.1.233"
+        authors: Young Jin, **Yongjae Lee**, Tae Hyun Kim, Seungji Lim, Woojin Chung 
+        Journal: "Health Policy and Management Vol.30 No.2, 233-246, (2020)"
+
+      - title: 'Association between Arthritis and Socio-Demographic Factors in Korean Elderlies: The National Survey of Korean Elderly (2014, 2017) Dataset Analysis'
+        link: "https://doi.org/10.4332/KJHPA.2019.29.4.469"
+        authors: Woonkyung Ha, Kwankyu Park, Taehyun Kim, Kyuhee Lee, **Yongjae Lee**, Woojin Chung 
+        Journal: "Health Policy and Management Vol.29 No.4, 469-481, (2019)"
+
+      - title: 'Factors Associated with Self-Rated Health among Poor Glycemic Control Group with Diabetes Mellitus: The 4th–6th Korea National Health and Nutrition Examination Survey (2007–2015)'
+        link: "https://doi.org/10.4332/KJHPA.2019.29.4.431"
+        authors: Suyoung Lee, Heejin Kim, Kyuri Kim, **YongJae Lee**, Woojin Chung 
+        Journal: "Health Policy and Management Vol.29 No.4, 431-444, (2019)"
+
+      - title: 'Relationship between Physical Function Factors and Discrimination Experiences of the Elderly in Korea: The 2014 and 2017 National Survey on Living Conditions and Welfare Needs of Korean Older Persons'
+        link: "https://doi.org/10.4332/KJHPA.2019.29.4.454"
+        authors: Kyuhee Lee, Wangshik Yong, Changhoon You, **Yongjae Lee**, Woojin Chung
+        Journal: "Health Policy and Management Vol.29 No.4, 454-468, (2019)"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: R
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: SAS
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Python
+        level: 78%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: SQL
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Docker
         level: 60%
 
+      - name: HTML5 & CSS
+        level: 30%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
