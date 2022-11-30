@@ -204,7 +204,7 @@ skills:
         level: 90%
 
       - name: Python
-       level: 78%
+        level: 78%
 
       - name: Docker
         level: 60%
