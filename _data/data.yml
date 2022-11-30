@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yongjae Lee
-    tagline: Researcher who can give hope to people
+    tagline: Creative, Innovative, and Passionate Researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -63,9 +63,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MA in Economics
+        university: Yonsei University
+        time: 2018 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -74,57 +74,29 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BA in Economics
+        university: Sangmyung University
+        time: 2011 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Graduated early at the seven semesters out of eight semesters with the highest priority (1/71)
+            - Awarded Scholarships for seven out of seven semesters
+            - Awarded Special Prize: Grand award in the Debate, Excellence award in the writing contest & Excellence award in book reading critique contestBullet point
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Project Manager
+        time: 2022 - Present
+        company: Severance Hospital, Seoul
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          As a project manager, I develop R library based on Maching Learning. I am proficient in using R and Python and I could run Lasso regression, Random forest, Gradient Boosting Machines, and Natural Language Processing (NLP).
+            - Liasion officer at the Observational Health Data Sciences and Informatics.
+      - role: Researcher
+        time: 2019 - 2021
+        company: Graduate school of Public Health, Yonsei University, Seoul
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I wrote numerous papers, helping other researchers establish statistical methods. Moreover, using SQL, I cleaned big data offered by Insurance Review & Assessment Service (HIRA) and processed Patient's Records. I studied casual effect to identify factors affecting health inequality and various statistical methods.
+            - Difference In Difference
+            - Survival Analysis
 projects:
     title: Projects
     intro: >
