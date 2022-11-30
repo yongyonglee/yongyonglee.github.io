@@ -59,6 +59,10 @@ career-profile:
       Hello,
       My name is Yongjae Lee. I would like to make a difference in my life and create a thing that can give people hope. I have the following qualities:
       I am a curious and social person. I usually feel excited from learning new things and fortunately, I am a fast learner. What also excites me is sports(crossfit/football/basketball). I love to do exercise with others. In addition, I love to do data visualization and data handling.
+      
+      - I graduated early at the seven semester from eight semesters with the highest priority (1/71)
+      - I awarded scholarships for all semesters
+      - I received grand award in the Debate, excellence award in the writing contest and excellence award in book reading critique contest
 
       Soft skills: Teamwork, engaged, analytical thinking, creative thinking, flexible, problem solver, eye for detail
 education:
@@ -139,19 +143,6 @@ oss:
       - title: (Undergraduate) Economics Statistics
         link: "#hook"
         tagline: "2014-2"
-
-      - title: Graduated early at the seven semester from eight semesters with the highest priority (1/71)
-        link: "#hook"
-        tagline: ""
-
-      - title: Awarded Scholarships for seven out of seven semesters
-        link: "#hook"
-        tagline: ""
-        
-      - title: Grand award in the Debate, Excellence award in the writing contest & Excellence award in book reading critique contest
-        link: "#hook"
-        tagline: ""
-
 
 publications:
     title: Publications
