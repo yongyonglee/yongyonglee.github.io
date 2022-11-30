@@ -200,11 +200,11 @@ skills:
       - name: SAS
         level: 98%
 
-      - name: Python
-        level: 78%
-
       - name: SQL
         level: 90%
+
+      - name: Python
+       level: 78%
 
       - name: Docker
         level: 60%
