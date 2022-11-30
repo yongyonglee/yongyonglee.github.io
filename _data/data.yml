@@ -59,6 +59,7 @@ career-profile:
       Hello,
       My name is Yongjae Lee. I would like to make a difference in my life and create a thing that can give people hope. I have the following qualities:
       I am a curious and social person. I usually feel excited from learning new things and fortunately, I am a fast learner. What also excites me is sports(crossfit/football/basketball). I love to do exercise with others. In addition, I love to do data visualization and data handling.
+
       Soft skills: Teamwork, engaged, analytical thinking, creative thinking, flexible, problem solver, eye for detail
 education:
     title: Education
@@ -108,25 +109,21 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Establishment and Improvement of Market Economy System - Development Experience Exchange Partnership (DEEP)
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Retrived the data from Vietnam and crafted various variables on interest, price and current"
 
-      - title: DevStudio
+      - title: Establishment of Big Data Monitoring System for the drunken at the emergency medical center
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Applying Lasso Regression to predict the repeated drunken's behavior"
 
-      - title: Tempo
+      - title: Development of drug side effect clue detection algorithm and artificial intelligence-based drug side effect prediction model using CDM
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Developed R library to predict drug causing side effects"
 
-      - title: Atom
+      - title: Validation of digital phenotypes with cardiovascular disease by using text mining
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Developed R library by using text mining"
 
 oss:
     title: OSS Contributions
