@@ -7,66 +7,67 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Yongjae Lee
-    tagline: Researcher who can give hope to people
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: whyj125125@gmail.com
-    phone: +82 10 3839 2742
-    timezone: Asia-Pacific/Seoul Timezone
-    citizenship: Korean
-    website: 
-    ORCID: https://orcid.org/0000-0002-8677-3519
-    xing: 
-    github: yongyonglee
-    telegram: whyj125125 # add your nickname without '@' sign
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    timezone: America/Cancun Timezone
+    citizenship:
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: Korea
+        - idiom: English
           level: Native
 
-        - idiom: English
+        - idiom: French
           level: Professional
 
-        - idiom: Japanese
-          level: Basic
+        - idiom: Spanish
+          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Machine Learning
+        - item: Climbing
           link:
 
-        - item: Econometrics
+        - item: Snowboarding
           link:
 
-        - item: Labor & Health Economics
+        - item: Cooking
           link:
 
 career-profile:
-    title: Profile
+    title: Career Profile
     summary: |
-      Hello,
-      My name is Yongjae Lee. I would like to make a difference in my life and create a thing that can give people hope. I have the following qualities:
-      I am a curious and social person. I usually feel excited from learning new things and fortunately, I am a fast learner. What also excites me is sports(crossfit/football/basketball). I love to do exercise with others. In addition, I love to do data visualization and data handling.
-      Soft skills: Teamwork, engaged, analytical thinking, creative thinking, flexible, problem solver, eye for detail
-
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: MA in Economics
-        university: Yonsei University
-        time: 2018 - 2020
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -75,29 +76,57 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BA in Economics
-        university: Sangmyung University
-        time: 2011 - 2017
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
         details: |
-            - Graduated early at the seven semesters out of eight semesters with the highest priority (1/71)
-            - Awarded Scholarships for seven out of seven semesters
-            - Awarded Special Prize: Grand award in the Debate, Excellence award in the writing contest & Excellence award in book reading critique contestBullet point
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 experiences:
     title: Experiences
     info:
-      - role: Project Manager
-        time: 2022 - Present
-        company: Severance Hospital, Seoul
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
-          As a project manager, I develop R library based on Maching Learning. I am proficient in using R and Python and I could run Lasso regression, Random forest, Gradient Boosting Machines, and Natural Language Processing (NLP).
-            - Liasion officer at the Observational Health Data Sciences and Informatics.
-      - role: Researcher
-        time: 2019 - 2021
-        company: Graduate school of Public Health, Yonsei University, Seoul
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
         details: |
-          I wrote numerous papers, helping other researchers establish statistical methods. Moreover, using SQL, I cleaned big data offered by Insurance Review & Assessment Service (HIRA) and processed Patient's Records. I studied casual effect to identify factors affecting health inequality and various statistical methods.
-            - Difference In Difference
-            - Survival Analysis
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
 projects:
     title: Projects
     intro: >
@@ -105,123 +134,88 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Establishment and Improvement of Market Economy System - Development Experience Exchange Partnership (DEEP)
+      - title: Velocity
         link: "#hook"
-        tagline: "Retrived the data from Vietnam and crafted various variables on interest, price and current"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Establishment of Big Data Monitoring System for the drunken at the emergency medical center
+      - title: DevStudio
         link: "#"
-        tagline: "Applying Lasso Regression to predict the repeated drunken's behavior"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Development of drug side effect clue detection algorithm and artificial intelligence-based drug side effect prediction model using CDM
+      - title: Tempo
         link: "#"
-        tagline: "Developed R library to predict drug causign side effects"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-projects:
-    title: Teaching Assistant
-    intro: >
-      
-    assignments:
-      - title: (Undergraduate) Economics Mathematics
-        link: "#hook"
-        tagline: "2016-1"
-      - title: (Undergraduate) Macroeconomics
-        link: "#hook"
-        tagline: "2015-1" 
-      - title: (Undergraduate) Economics Statistics
-        link: "#hook"
-        tagline: "2014-2"
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-oss-contributions:
-    title: Working Papers
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+    title: OSS Contributions
     intro: >
-      
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: 'Evolution of income-related health inequality and its decomposition in South Korea'
+      - title: Tempo
         link: "#"
-        authors: Yongjae Lee
-        tagline: 
-        "ABSTRACT
-        Objectives To identify income-related health inequalities in self-assessed health (SAH) in South Korea by decomposing income-related health inequality index.
-        Design A panel data study. Income was chosen as socioeconomic status indicators. Socio-demographics, region, sex, and age were used as covariates in pooled ordinary least square model. Inverse probability method was computed and applied for a complex survey design.
-        Setting Data came from the Korean Labor & Income Panel Study (KLIPS) from 2003 to 2017.
-        Participants The sample at first survey year included 13,321 aged ≥19 years.
-        Outcome measure SAH was used as an indicator of health status. SAH were transformed into continuous health variables using the ordered probit model. Erreygers index, mainly used as income-related health inequalities, was estimated. We decompose Erreygers index into four parts using an extension of the Blinder-Oaxaca decomposition method.
-        Results In Erreygers index, income had contributed to increasing health inequalities over time. According to the results of decomposing Erreygers index, income growth had contributed to reducing health inequality. However, rigid individual's income mobility is the main reason for increasing income-related health inequality. In the sub-analysis, women aged 70 and older was likely to have a significant effect on income-related health inequality than other groups.
-        Conclusions The well-known, positive association between income and health status may be valid when the income number was only considered. Excluding income growth and income mobility may result in the targeting of wrong populations for improving health status and its resultant socioeconomic gradients."
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      First & Second authors are equally contributed to those papers.
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: 'Association between High Sensitivity C-Reactive Protein and Metabolic Syndrome in South Korea: A Gender-Specific Analysis'
-        link: "https://doi.org/10.4332/KJHPA.2021.31.2.158"
-        authors: Eunyoung Shin, Yongjae Lee, Taehyun Kim, Keum Ji Jung, Woojin Chung
-        Journal: "Health Policy and Management Vol.31 No.2, 158-172, (2021)"
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      - title: 'Oral Health Status and Behavior Factors Associated with Self-Rated Health Status among the Elderly in South Korea: The 7th Korea National Health and Nutrition Examination Survey (2016–2018)'
-        link: "https://doi.org/10.4332/KJHPA.2021.31.1.74"
-        authors: Joo Hee Hong, Yongjae Lee, Taehyun Kim, Roeul Kim, Woojin Chung
-        Journal: "Health Policy and Management Vol.31 No.1, 74-90, (2021)"
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: 'Does the Obesity Paradox Exist in Cognitive Function?: Evidence from the Korean Longitudinal Study of Ageing, 2006–2016'
-        link: "https://doi.org/10.4332/KJHPA.2020.30.4.493"
-        authors: Kyung Sik Kang, Yongjae Lee, Sohee Park, Heejin Kimm, Woojin Chung 
-        Journal: "Health Policy and Management Vol.30 No.4, 493-504, (2020)"
-
-      - title: 'Factors Associated with the Use of Medical Care at Hospitals among Outpatients with Hypertension: A Study of the Korea Health Panel Study Dataset (2010–2016)'
-        link: "https://doi.org/10.4332/KJHPA.2020.30.4.479"
-        authors: Sumi Lee, Sohee Park, Heejin Kimm, **Yongjae Lee**, Woojin Chung  
-        Journal: "Health Policy and Management Vol.30 No.4, 479-492 , (2020)"
-
-      - title: 'Effect of Coverage Expansion Policy for an Ultrasonography in the Upper Abdomen on Its Utilization: A Difference-in-Difference Mixed-Effects Model Analysis'
-        link: "https://doi.org/10.4332/KJHPA.2020.30.3.326"
-        authors: Yena Son, **Yongjae Lee**, Chung-Mo Nam, Gyu Ri Kim, Woojin Chung  
-        Journal: "Health Policy and Management Vol.30 No.3, 326-334 , (2020)"
-
-      - title: 'Associations between Chronic Diseases and Depression in the Korean Elderly: A Gender-Specific Analysis'
-        link: "https://doi.org/10.4332/KJHPA.2020.30.1.233"
-        authors: Young Jin, **Yongjae Lee**, Tae Hyun Kim, Seungji Lim, Woojin Chung 
-        Journal: "Health Policy and Management Vol.30 No.2, 233-246, (2020)"
-
-      - title: 'Association between Arthritis and Socio-Demographic Factors in Korean Elderlies: The National Survey of Korean Elderly (2014, 2017) Dataset Analysis'
-        link: "https://doi.org/10.4332/KJHPA.2019.29.4.469"
-        authors: Woonkyung Ha, Kwankyu Park, Taehyun Kim, Kyuhee Lee, **Yongjae Lee**, Woojin Chung 
-        Journal: "Health Policy and Management Vol.29 No.4, 469-481, (2019)"
-
-      - title: 'Factors Associated with Self-Rated Health among Poor Glycemic Control Group with Diabetes Mellitus: The 4th–6th Korea National Health and Nutrition Examination Survey (2007–2015)'
-        link: "https://doi.org/10.4332/KJHPA.2019.29.4.431"
-        authors: Suyoung Lee, Heejin Kim, Kyuri Kim, **YongJae Lee**, Woojin Chung 
-        Journal: "Health Policy and Management Vol.29 No.4, 431-444, (2019)"
-
-      - title: 'Relationship between Physical Function Factors and Discrimination Experiences of the Elderly in Korea: The 2014 and 2017 National Survey on Living Conditions and Welfare Needs of Korean Older Persons'
-        link: "https://doi.org/10.4332/KJHPA.2019.29.4.454"
-        authors: Kyuhee Lee, Wangshik Yong, Changhoon You, **Yongjae Lee**, Woojin Chung
-        Journal: "Health Policy and Management Vol.29 No.4, 454-468, (2019)"
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: R
+      - name: Python & Django
         level: 98%
 
-      - name: SAS
+      - name: Javascript & jQuery
         level: 98%
 
-      - name: Python
-        level: 78%
-
-      - name: SQL
-        level: 90%
-
-      - name: Docker
-        level: 60%
+      - name: Angular
+        level: 98%
 
       - name: HTML5 & CSS
-        level: 30%
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
