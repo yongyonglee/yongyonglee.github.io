@@ -167,20 +167,20 @@ publications:
     intro: |
       First & Second authors are equally contributed to those papers.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: 'Association between Arthritis and Socio-Demographic Factors in Korean Elderlies: The National Survey of Korean Elderly (2014, 2017) Dataset Analysis'
+        link: "https://doi.org/10.4332/KJHPA.2019.29.4.469"
+        authors: Woonkyung Ha, Kwankyu Park, Taehyun Kim, Kyuhee Lee, Yongjae Lee, Woojin Chung 
+        Journal: "Health Policy and Management Vol.29 No.4, 469-481, (2019)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: 'Factors Associated with Self-Rated Health among Poor Glycemic Control Group with Diabetes Mellitus: The 4th–6th Korea National Health and Nutrition Examination Survey (2007–2015)'
+        link: "https://doi.org/10.4332/KJHPA.2019.29.4.431"
+        authors: Suyoung Lee, Heejin Kim, Kyuri Kim, YongJae Lee, Woojin Chung 
+        Journal: "Health Policy and Management Vol.29 No.4, 431-444, (2019)"
 
-      - title: “Relationship between Physical Function Factors and Discrimination Experiences of the Elderly in Korea: The 2014 and 2017 National Survey on Living Conditions and Welfare Needs of Korean Older Persons”
+      - title: 'Relationship between Physical Function Factors and Discrimination Experiences of the Elderly in Korea: The 2014 and 2017 National Survey on Living Conditions and Welfare Needs of Korean Older Persons'
         link: "https://doi.org/10.4332/KJHPA.2019.29.4.454"
         authors: Kyuhee Lee, Wangshik Yong, Changhoon You, Yongjae Lee, Woojin Chung
-        Journal: "Health Policy and Management Vol.29 No.4, 454-468"
+        Journal: "Health Policy and Management Vol.29 No.4, 454-468, (2019)"
 
 skills:
     title: Skills &amp; Proficiency
