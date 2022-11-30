@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: YONGJAE LEE
-    tagline: Creative Researcher
+    name: Yongjae Lee
+    tagline: Researcher who can give hope to people
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,7 +17,7 @@ sidebar:
     timezone: Asia-Pacific/Seoul Timezone
     citizenship: Korean
     website: 
-    linkedin: 
+    ORCID: https://orcid.org/0000-0002-8677-3519
     xing: 
     github: yongyonglee
     telegram: whyj125125 # add your nickname without '@' sign
@@ -143,43 +143,73 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
+working paper:
+    title: Working Papers
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     contributions:
-      - title: Tempo
+      - title: 'Evolution of income-related health inequality and its decomposition in South Korea'
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        authors: Yongjae Lee
+        tagline: 
+        "ABSTRACT"
+        "Objectives To identify income-related health inequalities in self-assessed health (SAH) in South Korea by decomposing income-related health inequality index."
+        "Design A panel data study. Income was chosen as socioeconomic status indicators. Socio-demographics, region, sex, and age were used as covariates in pooled ordinary least square model. Inverse probability method was computed and applied for a complex survey design."
+        "Setting Data came from the Korean Labor & Income Panel Study (KLIPS) from 2003 to 2017."
+        "Participants The sample at first survey year included 13,321 aged ≥19 years."
+        "Outcome measure SAH was used as an indicator of health status. SAH were transformed into continuous health variables using the ordered probit model. Erreygers index, mainly used as income-related health inequalities, was estimated. We decompose Erreygers index into four parts using an extension of the Blinder-Oaxaca decomposition method."
+        "Results In Erreygers index, income had contributed to increasing health inequalities over time. According to the results of decomposing Erreygers index, income growth had contributed to reducing health inequality. However, rigid individual’s income mobility is the main reason for increasing income-related health inequality. In the sub-analysis, women aged 70 and older was likely to have a significant effect on income-related health inequality than other groups."
+        "Conclusions The well-known, positive association between income and health status may be valid when the income number was only considered. Excluding income growth and income mobility may result in the targeting of wrong populations for improving health status and its resultant socioeconomic gradients."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
       First & Second authors are equally contributed to those papers.
     papers:
+      - title: 'Association between High Sensitivity C-Reactive Protein and Metabolic Syndrome in South Korea: A Gender-Specific Analysis'
+        link: "https://doi.org/10.4332/KJHPA.2021.31.2.158"
+        authors: Eunyoung Shin, Yongjae Lee, Taehyun Kim, Keum Ji Jung, Woojin Chung
+        Journal: "Health Policy and Management Vol.31 No.2, 158-172, (2021)"
+
+      - title: 'Oral Health Status and Behavior Factors Associated with Self-Rated Health Status among the Elderly in South Korea: The 7th Korea National Health and Nutrition Examination Survey (2016–2018)'
+        link: "https://doi.org/10.4332/KJHPA.2021.31.1.74"
+        authors: Joo Hee Hong, Yongjae Lee, Taehyun Kim, Roeul Kim, Woojin Chung
+        Journal: "Health Policy and Management Vol.31 No.1, 74-90, (2021)"
+
+      - title: 'Does the Obesity Paradox Exist in Cognitive Function?: Evidence from the Korean Longitudinal Study of Ageing, 2006–2016'
+        link: "https://doi.org/10.4332/KJHPA.2020.30.4.493"
+        authors: Kyung Sik Kang, Yongjae Lee, Sohee Park, Heejin Kimm, Woojin Chung 
+        Journal: "Health Policy and Management Vol.30 No.4, 493-504, (2020)"
+
+      - title: 'Factors Associated with the Use of Medical Care at Hospitals among Outpatients with Hypertension: A Study of the Korea Health Panel Study Dataset (2010–2016)'
+        link: "https://doi.org/10.4332/KJHPA.2020.30.4.479"
+        authors: Sumi Lee, Sohee Park, Heejin Kimm, **Yongjae Lee**, Woojin Chung  
+        Journal: "Health Policy and Management Vol.30 No.4, 479-492 , (2020)"
+
+      - title: 'Effect of Coverage Expansion Policy for an Ultrasonography in the Upper Abdomen on Its Utilization: A Difference-in-Difference Mixed-Effects Model Analysis'
+        link: "https://doi.org/10.4332/KJHPA.2020.30.3.326"
+        authors: Yena Son, **Yongjae Lee**, Chung-Mo Nam, Gyu Ri Kim, Woojin Chung  
+        Journal: "Health Policy and Management Vol.30 No.3, 326-334 , (2020)"
+
+      - title: 'Associations between Chronic Diseases and Depression in the Korean Elderly: A Gender-Specific Analysis'
+        link: "https://doi.org/10.4332/KJHPA.2020.30.1.233"
+        authors: Young Jin, **Yongjae Lee**, Tae Hyun Kim, Seungji Lim, Woojin Chung 
+        Journal: "Health Policy and Management Vol.30 No.2, 233-246, (2020)"
+
       - title: 'Association between Arthritis and Socio-Demographic Factors in Korean Elderlies: The National Survey of Korean Elderly (2014, 2017) Dataset Analysis'
         link: "https://doi.org/10.4332/KJHPA.2019.29.4.469"
-        authors: Woonkyung Ha, Kwankyu Park, Taehyun Kim, Kyuhee Lee, Yongjae Lee, Woojin Chung 
+        authors: Woonkyung Ha, Kwankyu Park, Taehyun Kim, Kyuhee Lee, **Yongjae Lee**, Woojin Chung 
         Journal: "Health Policy and Management Vol.29 No.4, 469-481, (2019)"
 
       - title: 'Factors Associated with Self-Rated Health among Poor Glycemic Control Group with Diabetes Mellitus: The 4th–6th Korea National Health and Nutrition Examination Survey (2007–2015)'
         link: "https://doi.org/10.4332/KJHPA.2019.29.4.431"
-        authors: Suyoung Lee, Heejin Kim, Kyuri Kim, YongJae Lee, Woojin Chung 
+        authors: Suyoung Lee, Heejin Kim, Kyuri Kim, **YongJae Lee**, Woojin Chung 
         Journal: "Health Policy and Management Vol.29 No.4, 431-444, (2019)"
 
       - title: 'Relationship between Physical Function Factors and Discrimination Experiences of the Elderly in Korea: The 2014 and 2017 National Survey on Living Conditions and Welfare Needs of Korean Older Persons'
         link: "https://doi.org/10.4332/KJHPA.2019.29.4.454"
-        authors: Kyuhee Lee, Wangshik Yong, Changhoon You, Yongjae Lee, Woojin Chung
+        authors: Kyuhee Lee, Wangshik Yong, Changhoon You, **Yongjae Lee**, Woojin Chung
         Journal: "Health Policy and Management Vol.29 No.4, 454-468, (2019)"
 
 skills:
