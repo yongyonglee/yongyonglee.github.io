@@ -141,9 +141,26 @@ oss:
         tagline: "2014-2"
 
 publications:
+    title: Working Paper
+    intro: |
+      
+    papers:
+      - title: 'Evolution of income-related health inequality and its decomposition in South Korea'
+        link: "#hook"
+        authors: Yongjae Lee
+        conference: "ABSTRACT
+        Objectives To identify income-related health inequalities in self-assessed health (SAH) in South Korea by decomposing income-related health inequality index.
+        Design A panel data study. Income was chosen as socioeconomic status indicators. Socio-demographics, region, sex, and age were used as covariates in pooled ordinary least square model. Inverse probability method was computed and applied for a complex survey design.
+        Setting Data came from the Korean Labor & Income Panel Study (KLIPS) from 2003 to 2017.
+        Participants The sample at first survey year included 13,321 aged ≥19 years.
+        Outcome measure SAH was used as an indicator of health status. SAH were transformed into continuous health variables using the ordered probit model. Erreygers index, mainly used as income-related health inequalities, was estimated. We decompose Erreygers index into four parts using an extension of the Blinder-Oaxaca decomposition method.
+        Results In Erreygers index, income had contributed to increasing health inequalities over time. According to the results of decomposing Erreygers index, income growth had contributed to reducing health inequality. However, rigid individual's income mobility is the main reason for increasing income-related health inequality. In the sub-analysis, women aged 70 and older was likely to have a significant effect on income-related health inequality than other groups.
+        Conclusions The well-known, positive association between income and health status may be valid when the income number was only considered. Excluding income growth and income mobility may result in the targeting of wrong populations for improving health status and its resultant socioeconomic gradients."
+
+publications:
     title: Publications
     intro: |
-      *: Authors are equally contributed to the following papers.
+      *: authors are equally contributed to the following papers.
     papers:
       - title: 'Association between High Sensitivity C-Reactive Protein and Metabolic Syndrome in South Korea: A Gender-Specific Analysis'
         link: "https://doi.org/10.4332/KJHPA.2021.31.2.158"
