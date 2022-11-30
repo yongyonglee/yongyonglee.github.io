@@ -93,28 +93,15 @@ experiences:
         time: 2022 - Present
         company: Severance Hospital, Seoul
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          As a project manager, I develop R library based on Maching Learning. I am proficient in using R and Python and I could run Lasso regression, Random forest, Gradient Boosting Machines, and Natural Language Processing (NLP).
+            - Liasion officer at the Observational Health Data Sciences and Informatics.
       - role: Researcher
         time: 2019 - 2021
         company: Graduate school of Public Health, Yonsei University, Seoul
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I wrote numerous papers, helping other researchers establish statistical methods. Moreover, using SQL, I cleaned big data offered by Insurance Review & Assessment Service (HIRA) and processed Patient's Records. I studied casual effect to identify factors affecting health inequality and various statistical methods.
+            - Difference In Difference
+            - Survival Analysis
 projects:
     title: Projects
     intro: >
